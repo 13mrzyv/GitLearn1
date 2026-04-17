@@ -1,0 +1,7 @@
+# Visual Studio müvəqqəti faylları
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.dbmdl
