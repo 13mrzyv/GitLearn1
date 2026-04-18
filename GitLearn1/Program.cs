@@ -12,6 +12,7 @@ namespace GitLearn1
         {
             string a = "salam";
             Console.WriteLine(a + "sonuncu2");
+            Console.WriteLine("Bu setri GitHub saytinda yazdim");
         }
     }
 }
