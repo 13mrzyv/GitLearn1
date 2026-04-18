@@ -10,6 +10,8 @@ namespace GitLearn1
     {
         static void Main(string[] args)
         {
+            string a = "salam";
+            Console.WriteLine(a + "Git öyrənmək maraqlıdır!");
         }
     }
 }
