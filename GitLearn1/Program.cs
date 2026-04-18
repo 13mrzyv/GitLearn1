@@ -11,7 +11,7 @@ namespace GitLearn1
         static void Main(string[] args)
         {
             string a = "salam";
-            Console.WriteLine(a + "sonuncu");
+            Console.WriteLine(a + "sonuncu2");
         }
     }
 }
