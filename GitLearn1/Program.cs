@@ -14,7 +14,8 @@ namespace GitLearn1
             Console.WriteLine(a + "sonuncu2");
             Console.WriteLine("Bu setri GitHub saytinda yazdim");
             Console.WriteLine("yeni");
-            Console.WriteLine("BU YENİ BUDAQDIR");
+            Console.WriteLine("BU YENİ BUDAQDIR---");
+
         }
     }
 }
